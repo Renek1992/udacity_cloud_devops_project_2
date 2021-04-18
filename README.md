@@ -34,6 +34,6 @@ aws cloudformation update-stack --stack-name ...
 
 To validate the successfull deployment, check the output of the server cloudformation stack to find the load balancer DNS name. The following link is provided as reference.
 
-link: [http://SERVE-WebAp-SKXJQQIEP37U-1773294403.us-west-2.elb.amazonaws.com] (http://SERVE-WebAp-SKXJQQIEP37U-1773294403.us-west-2.elb.amazonaws.com)
+link: [http://SERVE-WebAp-SKXJQQIEP37U-1773294403.us-west-2.elb.amazonaws.com]
 
 
